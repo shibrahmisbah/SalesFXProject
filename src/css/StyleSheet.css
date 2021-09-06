@@ -1,0 +1,16 @@
+.root{
+    -fx-background-color: #d3d3d3;
+}
+
+.label{
+    -fx-font-color: white;
+    
+}
+.button{
+    -fx-background-color: aquamarine;
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 5, 0.0 , 0 , 0);
+    -fx-border-color: black;
+}
+
+
+
